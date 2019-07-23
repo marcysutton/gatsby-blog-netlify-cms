@@ -1,5 +1,6 @@
 backend:
-  name: test-repo
+  name: github
+  repo: marcysutton/gatsby-blog-netlify-cms
 
 media_folder: static/assets
 public_folder: assets
